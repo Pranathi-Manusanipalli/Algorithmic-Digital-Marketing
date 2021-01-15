@@ -1,8 +1,8 @@
 # SuperStore
 The explosive growth of online content and services has provided a myriad of choices for users. Therefore, personalized recommendations are necessary to improve user experience and ensure retention.\
 The corollary of pleasant and convenient user experience is augmented profits for businesses. Before curating a set of products for different users, it is imperative to understand them better. Every customer is unique. Hence, if you treat them the same way with the same content, same channel, same importance, they will find another option which understands them better.\
-We segment the users based on RFM Modelling and create personalised Recommender System models based on Collaborative filtering.\
-In order to tackle the cold-start problem i.e. when new user opens the app we recommend popular items\n
+The users are segmented based on RFM Modelling and created personalised recommendations based on Collaborative filtering.\
+In order to tackle the cold-start problem for new users most popular items are recommend \
 Users can search for products and with product similarity search we display similar products to product that user searched for 
 
 # Project Proposal
